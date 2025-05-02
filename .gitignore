@@ -1,0 +1,7 @@
+Terraform_AzureProject_Eduardo/provider.tf
+Terraform_AzureProject_Eduardo/terraform.tfstate
+Terraform_AzureProject_Eduardo/terraform.tfstate.backup
+Terraform_AzureProject_Eduardo/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.27.0/windows_386/terraform-provider-azurerm_v4.27.0_x5.exe
+Terraform_AzureProject_Eduardo/.terraform/providers/registry.terraform.io/hashicorp/azurerm/4.27.0/windows_386/LICENSE.txt
+Terraform_AzureProject_Eduardo/.terraform/modules/modules.json
+Terraform_AzureProject_Eduardo/.terraform.lock.hcl
